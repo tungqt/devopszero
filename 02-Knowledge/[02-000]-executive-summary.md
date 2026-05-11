@@ -27,5 +27,19 @@ Nơi chứa toàn bộ lý thuyết, khái niệm và roadmap học DevOps từ 
         ├── [02-006]-partitioning-considerations.md        # Chiến lược phân vùng (/boot, /var, /tmp), LVM cơ bản
         ├── [02-007]-paths-and-environment-variables.md    # Biến $PATH, cơ chế tìm lệnh, đường dẫn tuyệt đối/tương đối
         ├── [02-008]-hard-and-soft-links.md                # Phân biệt Hard Link, Soft (Symbolic) Link và Inode
-        └── [02-009]-system-components-overview.md         # Tổng quan Module 3: Boot Process, Memory (OOM Killer), Network
+        ├── [02-009]-system-components-overview.md         # Tổng quan Module 3: Boot Process, Memory (OOM Killer), Network
+        ├── [02-010]-system-boot-process.md                # Quá trình Boot (BIOS, GRUB, Kernel)
+        ├── [02-011]-system-initialization.md              # Khởi tạo hệ thống (SysVinit, systemd)
+        ├── [02-012]-memory-management.md                  # Quản lý RAM, Cache, Buffer
+        ├── [02-013]-swap-space.md                         # Swap Space và Lab OOM Killer
+        ├── [02-014]-threading-models.md                   # Process vs Thread, Đa luồng
+        ├── [02-015]-networking-and-interfaces.md          # Giao diện mạng, ip vs ifconfig
+        ├── [02-016]-module-4-overview.md                  # Tổng quan Module 4: Monitoring, Device, Services
+        ├── [02-017]-basic-commands-utilities.md           # Cheat sheet các lệnh cơ bản
+        ├── [02-018]-file-transfer-tools.md                # FTP, curl, wget, scp, rsync
+        ├── [02-019]-monitoring-performance-utilities.md   # CLI Monitoring: top, vmstat, mpstat
+        ├── [02-020]-kernel-modules.md                     # Quản lý Kernel Module (lsmod, modprobe)
+        ├── [02-021]-device-management.md                  # Quản lý thiết bị với udev
+        ├── [02-022]-managing-system-services.md           # Quản lý dịch vụ với systemctl
+        └── [02-023]-stress-testing.md                     # Giả lập tải hệ thống với stress/stress-ng
 ```
