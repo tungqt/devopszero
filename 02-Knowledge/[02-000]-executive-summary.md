@@ -41,5 +41,6 @@ Nơi chứa toàn bộ lý thuyết, khái niệm và roadmap học DevOps từ 
         ├── [02-020]-kernel-modules.md                     # Quản lý Kernel Module (lsmod, modprobe)
         ├── [02-021]-device-management.md                  # Quản lý thiết bị với udev
         ├── [02-022]-managing-system-services.md           # Quản lý dịch vụ với systemctl
-        └── [02-023]-stress-testing.md                     # Giả lập tải hệ thống với stress/stress-ng
+        ├── [02-023]-stress-testing.md                     # Giả lập tải hệ thống với stress/stress-ng
+        └── [02-024]-module-5-overview.md                  # Tổng quan Module 5: Package, User/Group, su/sudo
 ```
