@@ -20,8 +20,9 @@ Bộ não vận hành của Workspace. Nơi chứa các quy chuẩn để tôi v
 ## Directory Map
 ```text
 06-Rules/
-├── [06-000]-executive-summary.md  # Tổng quan thư mục Rules
-├── [06-001]-document-format.md    # Quy chuẩn format, Doc ID và Version
-├── [06-002]-ai-communication.md   # Quy tắc giao tiếp và đọc file của AI
-└── [06-003]-daily-template.md     # Template chuẩn cho Daily Log
+├── [06-000]-executive-summary.md      # Tổng quan thư mục Rules
+├── [06-001]-document-format.md        # Quy chuẩn format, Doc ID và Version
+├── [06-002]-ai-communication.md       # Quy tắc giao tiếp và đọc file của AI
+├── [06-003]-daily-template.md         # Template chuẩn cho Daily Log
+└── [06-004]-knowledge-doc-standards.md # Tiêu chuẩn viết tài liệu kiến thức
 ```

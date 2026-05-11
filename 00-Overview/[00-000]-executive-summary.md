@@ -3,7 +3,7 @@
 ## Document Information
 - **Doc ID:** 00-000
 - **Summary:** Tổng quan về dự án và lộ trình học DevOps từ zero.
-- **Version:** 0.0.2
+- **Version:** 0.0.1
 - **Date:** 2026-03-27
 - **PRD Reference:** MA001
 - **Status:** Đang hoàn thiện file

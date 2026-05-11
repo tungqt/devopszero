@@ -3,7 +3,7 @@
 ## Document Information
 - **Doc ID:** 03-000
 - **Summary:** Tổng quan về thư mục Projects, nơi chứa các bài lab và dự án thực tế.
-- **Version:** 0.0.2
+- **Version:** 0.0.1
 - **Date:** 2026-03-27
 - **PRD Reference:** N/A
 - **Status:** Draft
