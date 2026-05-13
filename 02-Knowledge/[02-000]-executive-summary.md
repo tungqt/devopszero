@@ -46,5 +46,6 @@ Nơi chứa toàn bộ lý thuyết, khái niệm và roadmap học DevOps từ 
         ├── [02-025]-system-installation.md                # Các phương pháp cài đặt Linux, Multi-boot, Live Media
         ├── [02-026]-graphical-package-management.md       # Quản lý Package bằng GUI (GNOME Software, Synaptic)
         ├── [02-027]-yast-package-management.md            # Quản lý Package bằng GUI trên openSUSE (YaST)
-        └── [02-028]-software-management-and-packaging.md  # Định dạng RPM/DEB và Low/High-level tools
+        ├── [02-028]-software-management-and-packaging.md  # Định dạng RPM/DEB và Low/High-level tools
+        └── [02-029]-using-rpm-demo.md                     # Thực hành lệnh rpm (Query, List files, Erase test)
 ```
