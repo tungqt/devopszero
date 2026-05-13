@@ -51,5 +51,6 @@ Nơi chứa toàn bộ lý thuyết, khái niệm và roadmap học DevOps từ 
         ├── [02-030]-using-dpkg-demo.md                    # Thực hành lệnh dpkg (list, listfiles, remove)
         ├── [02-031]-using-dnf-demo.md                     # Thực hành lệnh dnf (Install, Remove, Dependencies)
         ├── [02-032]-upgrading-and-patching.md             # Nâng cấp, Vá lỗi và Cheat sheet các lệnh Package
-        └── [02-033]-user-directories-environments.md      # Thư mục Home, Automount (NFS), Biến môi trường $HOME
+        ├── [02-033]-user-directories-environments.md      # Thư mục Home, Automount (NFS), Biến môi trường $HOME
+        └── [02-034]-installing-epel-repository.md         # Lab cài đặt Repository EPEL trên CentOS/RHEL
 ```
