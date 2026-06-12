@@ -3,8 +3,8 @@
 ## Document Information
 - **Doc ID:** 06-000
 - **Summary:** Tổng quan về thư mục Rules, nơi chứa các quy tắc vận hành Workspace.
-- **Version:** 0.0.1
-- **Date:** 2026-03-27
+- **Version:** 0.0.2
+- **Date:** 2026-05-19
 - **PRD Reference:** N/A
 - **Status:** Draft
 
@@ -21,7 +21,7 @@ Bộ não vận hành của Workspace. Nơi chứa các quy chuẩn để tôi v
 ```text
 06-Rules/
 ├── [06-000]-executive-summary.md      # Tổng quan thư mục Rules
-├── [06-001]-document-format.md        # Quy chuẩn format, Doc ID và Version
+├── [06-001]-document-format.md        # Format, Doc ID, Version và quy tắc ghi chép 02-Knowledge
 ├── [06-002]-ai-communication.md       # Quy tắc giao tiếp và đọc file của AI
 ├── [06-003]-daily-template.md         # Template chuẩn cho Daily Log
 └── [06-004]-knowledge-doc-standards.md # Tiêu chuẩn viết tài liệu kiến thức
